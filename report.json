@@ -1,0 +1,20 @@
+[
+    {
+        "file": ".\\analyzer.py",
+        "extension": "py",
+        "detected": "unknown",
+        "status": "suspicious"
+    },
+    {
+        "file": ".\\fake.jpg",
+        "extension": "jpg",
+        "detected": "exe",
+        "status": "suspicious"
+    },
+    {
+        "file": ".\\IMP.png",
+        "extension": "png",
+        "detected": "png",
+        "status": "OK"
+    }
+]
